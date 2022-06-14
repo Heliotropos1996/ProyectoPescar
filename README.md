@@ -3,5 +3,8 @@
 Agustina Doré
 Abel Huaman
 Brian Pumarica
-Ramiro Foschini 
+Ramiro Foschini
 Mariano Serrano
+
+##Hola a todos
+##Hola equipo
